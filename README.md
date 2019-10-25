@@ -27,9 +27,13 @@ https://sequelize.readthedocs.io/en/latest/docs/migrations/
 ## penilaian
 
 ```
-EE (0-40)     -> validasi inputan 
-BE (41- 70)   -> membuat rest api dan respon api (seragam)
-BE (71 - 100) -> config db + membuat migrasi
+Exceed Expecctation (70-100)  
+Meet Expectation (40-70)      
+Below Expectation (0-39)    
+
+EE   -> validasi inputan 
+ME   -> membuat rest api dan respon api (seragam)
+BE  -> config db + membuat migrasi
 
 ```
 ## License
