@@ -27,6 +27,11 @@ https://sequelize.readthedocs.io/en/latest/docs/migrations/
 ## penilaian
 
 ```
+The Coding Challenges can be evaluated across common parameters like:
+a. Clean Code
+b. Naming
+c. Testing
+
 Exceed Expecctation (70-100)  
 Meet Expectation (40-70)      
 Below Expectation (0-39)    
