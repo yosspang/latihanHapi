@@ -1,0 +1,25 @@
+{
+  "name": "hapissequilize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasyid46/latihanHapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasyid46/latihanHapi/issues"
+  },
+  "homepage": "https://github.com/rasyid46/latihanHapi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/joi": "15.1.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.21.1"
+  }
+}
